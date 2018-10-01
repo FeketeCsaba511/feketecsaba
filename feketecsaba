@@ -1,0 +1,23 @@
+<!DOCtype html>
+<html lang="hu">
+<head>
+<title>első programom de nem jön össze</title>
+<h1>Fekete Csaba</h1>
+</head>
+<header>
+<body>
+<p>Name: <input type="text" name="nevmezo" ></p>
+<p>Password: <input type="password name="password"></p>
+<p>Nem</p><p><input type="checkbox"> </p>
+<p>Szabadidő: </p>
+</p><p><input name="sport" type="checkbox"> </p> </p><p><input name="sport" type="checkbox"> </p>
+<p>Férfi: </p> </p><p><input name="sport" type="checkbox"> </p> </p>
+<p><input name="sport"type="checkbox"> </p>
+<p>Nő: </p> </p><p><input name="sport" type="checkbox"> </p>
+
+
+</header>
+</body>
+<footer>
+Copiright 2018 UMSZKI</footer>
+</html>
